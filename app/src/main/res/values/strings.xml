@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="location_permission_not_given">Location Permission Not Given</string>
+    <string name="error_getting_location">Error Getting Location</string>
+    <string name="something_went_wrong">Something Went Wrong</string>
+    <string name="try_again">Try Again</string>
+</resources>
